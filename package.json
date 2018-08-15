@@ -1,6 +1,6 @@
 {
-	"name": "less-modules",
-	"version": "0.1.0",
+	"name": "create-perfect-react-app",
+	"version": "0.1.1",
 	"private": true,
 	"dependencies": {
 		"antd": "^3.8.1",
@@ -16,6 +16,7 @@
 	},
 	"devDependencies": {
 		"babel-plugin-import": "^1.8.0",
+		"custom-react-scripts": "^0.2.2",
 		"react-app-rewire-less": "^2.1.2",
 		"react-app-rewired": "^1.5.2"
 	}
